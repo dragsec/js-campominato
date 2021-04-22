@@ -1,9 +1,11 @@
+/* TEST */
 /* variabili utili */
 var min = 1;
 var max = 100;
 var gameNumbers = [];
 var userNumbers = [];
 var i = 1;
+
 
 /* genero numeri */
 while (i < 16){
